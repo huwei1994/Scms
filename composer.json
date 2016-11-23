@@ -9,6 +9,11 @@
             "email": "huwei19940728@gmail.com"
         }
     ],
+    "autoload":{
+        "psr-4":{
+            "Test2\\":""
+        }
+    }
     "minimum-stability": "dev",
     "require": {}
 }
