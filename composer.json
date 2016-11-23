@@ -1,7 +1,7 @@
 {
     "name": "huwei1994/test2",
     "description": "this is scms packgist",
-    "type": "php",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
