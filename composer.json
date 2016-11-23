@@ -1,12 +1,12 @@
 {
-    "name": "huwei1994/test",
+    "name": "huwei1994/test2",
     "description": "this is scms packgist",
     "type": "php",
     "license": "MIT",
     "authors": [
         {
             "name": "huwei",
-            "email": "wei.hu@haoqitech.com.cn"
+            "email": "huwei19940728@gmail.com"
         }
     ],
     "minimum-stability": "dev",
